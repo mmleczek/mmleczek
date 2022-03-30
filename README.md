@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi, I'm Mateusz, a computer engineering student and electronics hobbyist!
 
-<!--
-**mmleczek/mmleczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+🛠️I’m currently working on:
+* [**reective.com**](https://reective.com) website
+* Creating resources for [**FiveM**](https://fivem.net)
+* Creating tools for **GTA V**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+    <a href="https://ko-fi.com/mmleczek" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"/>
+    </a></div>
+<br/>
+
+----
