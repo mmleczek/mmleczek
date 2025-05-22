@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mateusz, a computer engineering student and electronics hobbyist!
+### 👋 Hi, I'm Mateusz, a Computer Engineer and electronics hobbyist!
 
 ----
 
